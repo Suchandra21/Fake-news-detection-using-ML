@@ -42,13 +42,5 @@ The ML model uses Random Forest classifier, followed by many NLP processes like 
 - Accuracy score and confusion matrix are used for evaluation.
 - Model achieved an average accuracy of 0.99% (based on K-fold cross-validation).
 
-## Contributions
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Author
-
 Suchandra Das - in collaboration with Atasi Das, Ayush Kumar, Sudip Mahapatra, Ankush Panja, Surojit Biswas, Mohit Singh.
